@@ -2,4 +2,4 @@
 A test project to learn Django (Beginners)
 
 
-A link to the notes can be found (here)[https://github.com/PintoGideon/notes/blob/master/Python/Django.md]
+A link to the notes can be found [here](ttps://github.com/PintoGideon/notes/blob/master/Python/Django.md)
